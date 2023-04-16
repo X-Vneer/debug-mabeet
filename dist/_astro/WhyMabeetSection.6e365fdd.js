@@ -1,0 +1,1 @@
+import{S as t}from"./SectionHeader.5d3e6a17.js";import{j as e}from"./jsx-runtime.1aeea3a4.js";import"./index.63936364.js";const i=({data:s})=>e.jsx("section",{className:"py-20",children:e.jsx("div",{className:"container",children:e.jsx(t,{className:"!text-right",pClassName:"!mr-0 !ml-auto",...s.header})})});export{i as default};
