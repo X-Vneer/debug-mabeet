@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime.f12ebf02.js";const o=({h2:t,p:s,className:x,h2ClassName:l,pClassName:a})=>e.jsxs("div",{className:` text-center ${x}`,children:[e.jsx("h2",{className:`text-2xl lg:text-[2.1rem] leading-loose text-mainColor font-bold  ${l}`,children:t}),e.jsx("p",{className:` max-w-lg mx-auto lg:text-lg text-textGray ${a}`,children:s})]});export{o as S};
