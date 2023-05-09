@@ -1,0 +1,1 @@
+import{u as o}from"./index.fec1b19f.js";import{s as f}from"./index.2c513237.js";const c=({reqKey:s,url:e,options:t,onSuccess:r=()=>{}})=>(typeof s>"u"&&(s=e),o(s,async a=>await f(a,t),{revalidateOnFocus:!1,onSuccess:r}));export{c as u};
